@@ -1,0 +1,13 @@
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\Color.Net\Color.Net\bin\Debug\Color.Net.exe.config
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\Color.Net\Color.Net\obj\Debug\Color.Net.Form1.resources
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\Color.Net\Color.Net\obj\Debug\Color.Net.Resources.resources
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\Color.Net\Color.Net\obj\Debug\Color.Net.vbproj.GenerateResource.Cache
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\Color.Net\Color.Net\bin\Debug\Color.Net.exe
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\Color.Net\Color.Net\bin\Debug\Color.Net.pdb
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\Color.Net\Color.Net\bin\Debug\Color.Net.xml
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\Color.Net\Color.Net\obj\Debug\Color.Net.exe
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\Color.Net\Color.Net\obj\Debug\Color.Net.xml
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\Color.Net\Color.Net\obj\Debug\Color.Net.pdb
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\Color.Net\Color.Net\bin\Debug\Cyotek.Windows.Forms.ColorPicker.dll
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\Color.Net\Color.Net\obj\Debug\Color.Net.vbprojResolveAssemblyReference.cache
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\Color.Net\Color.Net\obj\Debug\Color.Net.Preview.resources
